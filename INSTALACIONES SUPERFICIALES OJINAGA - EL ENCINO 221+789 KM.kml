@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="0">
+	<name>INSTALACIONES SUPERFICIALES OJINAGA - EL ENCINO 221+789 KM</name>
+	<open>1</open>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="normal_khStyle_0">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>I:/Iconos/Blue%20Map%20Pointer.G03.watermarked.2k.png</href>
+				<gx:x>32</gx:x>
+				<gx:y>128</gx:y>
+				<gx:w>32</gx:w>
+				<gx:h>32</gx:h>
+				<x>32</x>
+				<y>128</y>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.9</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="FolderStyle">
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType>
+		</ListStyle>
+	</Style>
+	<StyleMap id="khStyle_0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#normal_khStyle_0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#highlight_khStyle_0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="highlight_khStyle_0">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>I:/Iconos/Blue%20Map%20Pointer.G03.watermarked.2k.png</href>
+				<gx:x>32</gx:x>
+				<gx:y>128</gx:y>
+				<gx:w>32</gx:w>
+				<gx:h>32</gx:h>
+				<x>32</x>
+				<y>128</y>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.9</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>MLV</name>
+		<Snippet maxLines="0"></Snippet>
+		<styleUrl>#FolderStyle</styleUrl>
+		<Placemark>
+			<name>MLV</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<table cellpadding="2" cellspacing="2" style="border:0px solid #002a7e" width="270px">
+<tr><td align="center" colspan="2"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSmbG58b_8JLbisrmyVxVp6FTf1QzahBOtCQ&usqp=CAU.png" width="50" height="50"></td></tr>
+<tr><td align="center" colspan="2"><font size="2" face="verdana" color="#727272">Topografía</font></td></tr>
+<tr><td align="center" colspan="2"><b><font size="3" face="verdana" color="#000000">Proyecto Sonora</font></b></td></tr>
+<tr> 
+<table width="270px" style="border: outset 1px #f9b127" align="center" border="1"  cellpadding="2" cellspacing="1">
+<colgroup span="0" style="background: rgba(22, 72, 98, 0.1); border: 1px solid rgba(100, 200, 0);"></colgroup>
+<colgroup span="3" style="background: rgba(249, 177, 34, 0.1); border: 1px solid rgba(200, 100, 0);"></colgroup>
+<body text="#164862" style="font-family:Arial NC; font-size:0%">
+<tr>
+<th colspan="3" bgcolor="#164862"><font size="3" face="Verdana" color="#f9b127">OJINAGA - EL ENCINO 221+789 KM</th>
+<tr>
+<th width="32%">Instalación</th>
+<th colspan="2" width="68%">MLV</th>
+<tr>
+<th>Km</th>
+<th colspan="2">31+968.63</th>
+<tr>
+<th rowspan="2">Coordenadas</th>
+<th bgcolor="#164862"><font size="3" face="Arial" color="#f9b127">X</th>
+<th bgcolor="#164862"><font size="3" face="Arial" color="#f9b127">Y</th>
+<tr>
+<th>519,330.76&nbsp;E</th>
+<th>3,269,387.31&nbsp;N</th>
+<tr>
+<th>Estado</th>
+<th colspan="2">Chihuahua</th>
+<tr>
+<th>Municipio</th>
+<th colspan="2">Aquiles Serdán (CHIH)</th>
+</table>
+<table cellpadding="0" cellspacing="3" style="border:0px solid #002a7e" width="280px">
+<td align="left"><font size="1" face="symbol" color="#ffffff">Pho<td align="center"><b><font size="2" face="Verdana">www.bcysa.mx<td align="center"><font size="1" face="symbol" color="#e4f0ff">Pho</font><br>]]></description>
+			<styleUrl>#khStyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="ID">
+					<displayName>ID</displayName>
+					<value>2</value>
+				</Data>
+				<Data name="INSTALACIÓ">
+					<displayName>INSTALACIÓ</displayName>
+					<value>MLV</value>
+				</Data>
+				<Data name="KM">
+					<displayName>KM</displayName>
+					<value>31+968.63</value>
+				</Data>
+				<Data name="ESTADO">
+					<displayName>ESTADO</displayName>
+					<value>Chihuahua</value>
+				</Data>
+				<Data name="MUNICIPIO">
+					<displayName>MUNICIPIO</displayName>
+					<value>Aquiles Serdán (CHIH)</value>
+				</Data>
+				<Data name="X">
+					<displayName>X</displayName>
+					<value>519,330.76</value>
+				</Data>
+				<Data name="Y">
+					<displayName>Y</displayName>
+					<value>3,269,387.31</value>
+				</Data>
+				<Data name="PROPUESTA">
+					<displayName>PROPUESTA</displayName>
+					<value>OJINAGA - EL ENCINO 221+789 KM</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.800458888333,29.5540370195952,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MLV</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<table cellpadding="2" cellspacing="2" style="border:0px solid #002a7e" width="270px">
+<tr><td align="center" colspan="2"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSmbG58b_8JLbisrmyVxVp6FTf1QzahBOtCQ&usqp=CAU.png" width="50" height="50"></td></tr>
+<tr><td align="center" colspan="2"><font size="2" face="verdana" color="#727272">Topografía</font></td></tr>
+<tr><td align="center" colspan="2"><b><font size="3" face="verdana" color="#000000">Proyecto Sonora</font></b></td></tr>
+<tr> 
+<table width="270px" style="border: outset 1px #f9b127" align="center" border="1"  cellpadding="2" cellspacing="1">
+<colgroup span="0" style="background: rgba(22, 72, 98, 0.1); border: 1px solid rgba(100, 200, 0);"></colgroup>
+<colgroup span="3" style="background: rgba(249, 177, 34, 0.1); border: 1px solid rgba(200, 100, 0);"></colgroup>
+<body text="#164862" style="font-family:Arial NC; font-size:0%">
+<tr>
+<th colspan="3" bgcolor="#164862"><font size="3" face="Verdana" color="#f9b127">OJINAGA - EL ENCINO 221+789 KM</th>
+<tr>
+<th width="32%">Instalación</th>
+<th colspan="2" width="68%">MLV</th>
+<tr>
+<th>Km</th>
+<th colspan="2">63+828.38</th>
+<tr>
+<th rowspan="2">Coordenadas</th>
+<th bgcolor="#164862"><font size="3" face="Arial" color="#f9b127">X</th>
+<th bgcolor="#164862"><font size="3" face="Arial" color="#f9b127">Y</th>
+<tr>
+<th>491,432.21&nbsp;E</th>
+<th>3,261,656.86&nbsp;N</th>
+<tr>
+<th>Estado</th>
+<th colspan="2">Chihuahua</th>
+<tr>
+<th>Municipio</th>
+<th colspan="2">Aldama (CHIH)</th>
+</table>
+<table cellpadding="0" cellspacing="3" style="border:0px solid #002a7e" width="280px">
+<td align="left"><font size="1" face="symbol" color="#ffffff">Pho<td align="center"><b><font size="2" face="Verdana">www.bcysa.mx<td align="center"><font size="1" face="symbol" color="#e4f0ff">Pho</font><br>]]></description>
+			<styleUrl>#khStyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="ID">
+					<displayName>ID</displayName>
+					<value>3</value>
+				</Data>
+				<Data name="INSTALACIÓ">
+					<displayName>INSTALACIÓ</displayName>
+					<value>MLV</value>
+				</Data>
+				<Data name="KM">
+					<displayName>KM</displayName>
+					<value>63+828.38</value>
+				</Data>
+				<Data name="ESTADO">
+					<displayName>ESTADO</displayName>
+					<value>Chihuahua</value>
+				</Data>
+				<Data name="MUNICIPIO">
+					<displayName>MUNICIPIO</displayName>
+					<value>Aldama (CHIH)</value>
+				</Data>
+				<Data name="X">
+					<displayName>X</displayName>
+					<value>491,432.21</value>
+				</Data>
+				<Data name="Y">
+					<displayName>Y</displayName>
+					<value>3,261,656.86</value>
+				</Data>
+				<Data name="PROPUESTA">
+					<displayName>PROPUESTA</displayName>
+					<value>OJINAGA - EL ENCINO 221+789 KM</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.088380190581,29.4843880553538,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MLV</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<table cellpadding="2" cellspacing="2" style="border:0px solid #002a7e" width="270px">
+<tr><td align="center" colspan="2"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSmbG58b_8JLbisrmyVxVp6FTf1QzahBOtCQ&usqp=CAU.png" width="50" height="50"></td></tr>
+<tr><td align="center" colspan="2"><font size="2" face="verdana" color="#727272">Topografía</font></td></tr>
+<tr><td align="center" colspan="2"><b><font size="3" face="verdana" color="#000000">Proyecto Sonora</font></b></td></tr>
+<tr> 
+<table width="270px" style="border: outset 1px #f9b127" align="center" border="1"  cellpadding="2" cellspacing="1">
+<colgroup span="0" style="background: rgba(22, 72, 98, 0.1); border: 1px solid rgba(100, 200, 0);"></colgroup>
+<colgroup span="3" style="background: rgba(249, 177, 34, 0.1); border: 1px solid rgba(200, 100, 0);"></colgroup>
+<body text="#164862" style="font-family:Arial NC; font-size:0%">
+<tr>
+<th colspan="3" bgcolor="#164862"><font size="3" face="Verdana" color="#f9b127">OJINAGA - EL ENCINO 221+789 KM</th>
+<tr>
+<th width="32%">Instalación</th>
+<th colspan="2" width="68%">MLV</th>
+<tr>
+<th>Km</th>
+<th colspan="2">95+313.99</th>
+<tr>
+<th rowspan="2">Coordenadas</th>
+<th bgcolor="#164862"><font size="3" face="Arial" color="#f9b127">X</th>
+<th bgcolor="#164862"><font size="3" face="Arial" color="#f9b127">Y</th>
+<tr>
+<th>469,034.78&nbsp;E</th>
+<th>3,242,332.54&nbsp;N</th>
+<tr>
+<th>Estado</th>
+<th colspan="2">Chihuahua</th>
+<tr>
+<th>Municipio</th>
+<th colspan="2">Aldama (CHIH)</th>
+</table>
+<table cellpadding="0" cellspacing="3" style="border:0px solid #002a7e" width="280px">
+<td align="left"><font size="1" face="symbol" color="#ffffff">Pho<td align="center"><b><font size="2" face="Verdana">www.bcysa.mx<td align="center"><font size="1" face="symbol" color="#e4f0ff">Pho</font><br>]]></description>
+			<styleUrl>#khStyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="ID">
+					<displayName>ID</displayName>
+					<value>4</value>
+				</Data>
+				<Data name="INSTALACIÓ">
+					<displayName>INSTALACIÓ</displayName>
+					<value>MLV</value>
+				</Data>
+				<Data name="KM">
+					<displayName>KM</displayName>
+					<value>95+313.99</value>
+				</Data>
+				<Data name="ESTADO">
+					<displayName>ESTADO</displayName>
+					<value>Chihuahua</value>
+				</Data>
+				<Data name="MUNICIPIO">
+					<displayName>MUNICIPIO</displayName>
+					<value>Aldama (CHIH)</value>
+				</Data>
+				<Data name="X">
+					<displayName>X</displayName>
+					<value>469,034.78</value>
+				</Data>
+				<Data name="Y">
+					<displayName>Y</displayName>
+					<value>3,242,332.54</value>
+				</Data>
+				<Data name="PROPUESTA">
+					<displayName>PROPUESTA</displayName>
+					<value>OJINAGA - EL ENCINO 221+789 KM</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.318872406302,29.3096263881824,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MLV</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<table cellpadding="2" cellspacing="2" style="border:0px solid #002a7e" width="270px">
+<tr><td align="center" colspan="2"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSmbG58b_8JLbisrmyVxVp6FTf1QzahBOtCQ&usqp=CAU.png" width="50" height="50"></td></tr>
+<tr><td align="center" colspan="2"><font size="2" face="verdana" color="#727272">Topografía</font></td></tr>
+<tr><td align="center" colspan="2"><b><font size="3" face="verdana" color="#000000">Proyecto Sonora</font></b></td></tr>
+<tr> 
+<table width="270px" style="border: outset 1px #f9b127" align="center" border="1"  cellpadding="2" cellspacing="1">
+<colgroup span="0" style="background: rgba(22, 72, 98, 0.1); border: 1px solid rgba(100, 200, 0);"></colgroup>
+<colgroup span="3" style="background: rgba(249, 177, 34, 0.1); border: 1px solid rgba(200, 100, 0);"></colgroup>
+<body text="#164862" style="font-family:Arial NC; font-size:0%">
+<tr>
+<th colspan="3" bgcolor="#164862"><font size="3" face="Verdana" color="#f9b127">OJINAGA - EL ENCINO 221+789 KM</th>
+<tr>
+<th width="32%">Instalación</th>
+<th colspan="2" width="68%">MLV</th>
+<tr>
+<th>Km</th>
+<th colspan="2">127+101.09</th>
+<tr>
+<th rowspan="2">Coordenadas</th>
+<th bgcolor="#164862"><font size="3" face="Arial" color="#f9b127">X</th>
+<th bgcolor="#164862"><font size="3" face="Arial" color="#f9b127">Y</th>
+<tr>
+<th>446,469.30&nbsp;E</th>
+<th>3,220,438.91&nbsp;N</th>
+<tr>
+<th>Estado</th>
+<th colspan="2">Chihuahua</th>
+<tr>
+<th>Municipio</th>
+<th colspan="2">Aldama (CHIH)</th>
+</table>
+<table cellpadding="0" cellspacing="3" style="border:0px solid #002a7e" width="280px">
+<td align="left"><font size="1" face="symbol" color="#ffffff">Pho<td align="center"><b><font size="2" face="Verdana">www.bcysa.mx<td align="center"><font size="1" face="symbol" color="#e4f0ff">Pho</font><br>]]></description>
+			<styleUrl>#khStyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="ID">
+					<displayName>ID</displayName>
+					<value>5</value>
+				</Data>
+				<Data name="INSTALACIÓ">
+					<displayName>INSTALACIÓ</displayName>
+					<value>MLV</value>
+				</Data>
+				<Data name="KM">
+					<displayName>KM</displayName>
+					<value>127+101.09</value>
+				</Data>
+				<Data name="ESTADO">
+					<displayName>ESTADO</displayName>
+					<value>Chihuahua</value>
+				</Data>
+				<Data name="MUNICIPIO">
+					<displayName>MUNICIPIO</displayName>
+					<value>Aldama (CHIH)</value>
+				</Data>
+				<Data name="X">
+					<displayName>X</displayName>
+					<value>446,469.30</value>
+				</Data>
+				<Data name="Y">
+					<displayName>Y</displayName>
+					<value>3,220,438.91</value>
+				</Data>
+				<Data name="PROPUESTA">
+					<displayName>PROPUESTA</displayName>
+					<value>OJINAGA - EL ENCINO 221+789 KM</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.550182673976,29.1112734889877,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MLV</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<table cellpadding="2" cellspacing="2" style="border:0px solid #002a7e" width="270px">
+<tr><td align="center" colspan="2"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSmbG58b_8JLbisrmyVxVp6FTf1QzahBOtCQ&usqp=CAU.png" width="50" height="50"></td></tr>
+<tr><td align="center" colspan="2"><font size="2" face="verdana" color="#727272">Topografía</font></td></tr>
+<tr><td align="center" colspan="2"><b><font size="3" face="verdana" color="#000000">Proyecto Sonora</font></b></td></tr>
+<tr> 
+<table width="270px" style="border: outset 1px #f9b127" align="center" border="1"  cellpadding="2" cellspacing="1">
+<colgroup span="0" style="background: rgba(22, 72, 98, 0.1); border: 1px solid rgba(100, 200, 0);"></colgroup>
+<colgroup span="3" style="background: rgba(249, 177, 34, 0.1); border: 1px solid rgba(200, 100, 0);"></colgroup>
+<body text="#164862" style="font-family:Arial NC; font-size:0%">
+<tr>
+<th colspan="3" bgcolor="#164862"><font size="3" face="Verdana" color="#f9b127">OJINAGA - EL ENCINO 221+789 KM</th>
+<tr>
+<th width="32%">Instalación</th>
+<th colspan="2" width="68%">MLV</th>
+<tr>
+<th>Km</th>
+<th colspan="2">158+974.18</th>
+<tr>
+<th rowspan="2">Coordenadas</th>
+<th bgcolor="#164862"><font size="3" face="Arial" color="#f9b127">X</th>
+<th bgcolor="#164862"><font size="3" face="Arial" color="#f9b127">Y</th>
+<tr>
+<th>434,919.73&nbsp;E</th>
+<th>3,192,097.74&nbsp;N</th>
+<tr>
+<th>Estado</th>
+<th colspan="2">Chihuahua</th>
+<tr>
+<th>Municipio</th>
+<th colspan="2">Coyame del Sotol (CHIH)</th>
+</table>
+<table cellpadding="0" cellspacing="3" style="border:0px solid #002a7e" width="280px">
+<td align="left"><font size="1" face="symbol" color="#ffffff">Pho<td align="center"><b><font size="2" face="Verdana">www.bcysa.mx<td align="center"><font size="1" face="symbol" color="#e4f0ff">Pho</font><br>]]></description>
+			<styleUrl>#khStyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="ID">
+					<displayName>ID</displayName>
+					<value>6</value>
+				</Data>
+				<Data name="INSTALACIÓ">
+					<displayName>INSTALACIÓ</displayName>
+					<value>MLV</value>
+				</Data>
+				<Data name="KM">
+					<displayName>KM</displayName>
+					<value>158+974.18</value>
+				</Data>
+				<Data name="ESTADO">
+					<displayName>ESTADO</displayName>
+					<value>Chihuahua</value>
+				</Data>
+				<Data name="MUNICIPIO">
+					<displayName>MUNICIPIO</displayName>
+					<value>Coyame del Sotol (CHIH)</value>
+				</Data>
+				<Data name="X">
+					<displayName>X</displayName>
+					<value>434,919.73</value>
+				</Data>
+				<Data name="Y">
+					<displayName>Y</displayName>
+					<value>3,192,097.74</value>
+				</Data>
+				<Data name="PROPUESTA">
+					<displayName>PROPUESTA</displayName>
+					<value>OJINAGA - EL ENCINO 221+789 KM</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.667238218053,28.85494422935,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MLV</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<table cellpadding="2" cellspacing="2" style="border:0px solid #002a7e" width="270px">
+<tr><td align="center" colspan="2"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSmbG58b_8JLbisrmyVxVp6FTf1QzahBOtCQ&usqp=CAU.png" width="50" height="50"></td></tr>
+<tr><td align="center" colspan="2"><font size="2" face="verdana" color="#727272">Topografía</font></td></tr>
+<tr><td align="center" colspan="2"><b><font size="3" face="verdana" color="#000000">Proyecto Sonora</font></b></td></tr>
+<tr> 
+<table width="270px" style="border: outset 1px #f9b127" align="center" border="1"  cellpadding="2" cellspacing="1">
+<colgroup span="0" style="background: rgba(22, 72, 98, 0.1); border: 1px solid rgba(100, 200, 0);"></colgroup>
+<colgroup span="3" style="background: rgba(249, 177, 34, 0.1); border: 1px solid rgba(200, 100, 0);"></colgroup>
+<body text="#164862" style="font-family:Arial NC; font-size:0%">
+<tr>
+<th colspan="3" bgcolor="#164862"><font size="3" face="Verdana" color="#f9b127">OJINAGA - EL ENCINO 221+789 KM</th>
+<tr>
+<th width="32%">Instalación</th>
+<th colspan="2" width="68%">MLV</th>
+<tr>
+<th>Km</th>
+<th colspan="2">190+943.11</th>
+<tr>
+<th rowspan="2">Coordenadas</th>
+<th bgcolor="#164862"><font size="3" face="Arial" color="#f9b127">X</th>
+<th bgcolor="#164862"><font size="3" face="Arial" color="#f9b127">Y</th>
+<tr>
+<th>428,853.24&nbsp;E</th>
+<th>3,161,670.92&nbsp;N</th>
+<tr>
+<th>Estado</th>
+<th colspan="2">Chihuahua</th>
+<tr>
+<th>Municipio</th>
+<th colspan="2">Coyame del Sotol (CHIH)</th>
+</table>
+<table cellpadding="0" cellspacing="3" style="border:0px solid #002a7e" width="280px">
+<td align="left"><font size="1" face="symbol" color="#ffffff">Pho<td align="center"><b><font size="2" face="Verdana">www.bcysa.mx<td align="center"><font size="1" face="symbol" color="#e4f0ff">Pho</font><br>]]></description>
+			<styleUrl>#khStyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="ID">
+					<displayName>ID</displayName>
+					<value>7</value>
+				</Data>
+				<Data name="INSTALACIÓ">
+					<displayName>INSTALACIÓ</displayName>
+					<value>MLV</value>
+				</Data>
+				<Data name="KM">
+					<displayName>KM</displayName>
+					<value>190+943.11</value>
+				</Data>
+				<Data name="ESTADO">
+					<displayName>ESTADO</displayName>
+					<value>Chihuahua</value>
+				</Data>
+				<Data name="MUNICIPIO">
+					<displayName>MUNICIPIO</displayName>
+					<value>Coyame del Sotol (CHIH)</value>
+				</Data>
+				<Data name="X">
+					<displayName>X</displayName>
+					<value>428,853.24</value>
+				</Data>
+				<Data name="Y">
+					<displayName>Y</displayName>
+					<value>3,161,670.92</value>
+				</Data>
+				<Data name="PROPUESTA">
+					<displayName>PROPUESTA</displayName>
+					<value>OJINAGA - EL ENCINO 221+789 KM</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.727527865711,28.5800014650495,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>MLV Y TRAMPA</name>
+		<Snippet maxLines="0"></Snippet>
+		<styleUrl>#FolderStyle</styleUrl>
+		<Placemark>
+			<name>MLV Y TRAMPA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<table cellpadding="2" cellspacing="2" style="border:0px solid #002a7e" width="270px">
+<tr><td align="center" colspan="2"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSmbG58b_8JLbisrmyVxVp6FTf1QzahBOtCQ&usqp=CAU.png" width="50" height="50"></td></tr>
+<tr><td align="center" colspan="2"><font size="2" face="verdana" color="#727272">Topografía</font></td></tr>
+<tr><td align="center" colspan="2"><b><font size="3" face="verdana" color="#000000">Proyecto Sonora</font></b></td></tr>
+<tr> 
+<table width="270px" style="border: outset 1px #f9b127" align="center" border="1"  cellpadding="2" cellspacing="1">
+<colgroup span="0" style="background: rgba(22, 72, 98, 0.1); border: 1px solid rgba(100, 200, 0);"></colgroup>
+<colgroup span="3" style="background: rgba(249, 177, 34, 0.1); border: 1px solid rgba(200, 100, 0);"></colgroup>
+<body text="#164862" style="font-family:Arial NC; font-size:0%">
+<tr>
+<th colspan="3" bgcolor="#164862"><font size="3" face="Verdana" color="#f9b127">OJINAGA - EL ENCINO 221+789 KM</th>
+<tr>
+<th width="32%">Instalación</th>
+<th colspan="2" width="68%">MLV Y TRAMPA</th>
+<tr>
+<th>Km</th>
+<th colspan="2">0+828.80</th>
+<tr>
+<th rowspan="2">Coordenadas</th>
+<th bgcolor="#164862"><font size="3" face="Arial" color="#f9b127">X</th>
+<th bgcolor="#164862"><font size="3" face="Arial" color="#f9b127">Y</th>
+<tr>
+<th>544,236.21&nbsp;E</th>
+<th>3,282,141.50&nbsp;N</th>
+<tr>
+<th>Estado</th>
+<th colspan="2">Chihuahua</th>
+<tr>
+<th>Municipio</th>
+<th colspan="2">Chihuahua (CHIH)</th>
+</table>
+<table cellpadding="0" cellspacing="3" style="border:0px solid #002a7e" width="280px">
+<td align="left"><font size="1" face="symbol" color="#ffffff">Pho<td align="center"><b><font size="2" face="Verdana">www.bcysa.mx<td align="center"><font size="1" face="symbol" color="#e4f0ff">Pho</font><br>]]></description>
+			<styleUrl>#khStyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="ID">
+					<displayName>ID</displayName>
+					<value>1</value>
+				</Data>
+				<Data name="INSTALACIÓ">
+					<displayName>INSTALACIÓ</displayName>
+					<value>MLV Y TRAMPA</value>
+				</Data>
+				<Data name="KM">
+					<displayName>KM</displayName>
+					<value>0+828.80</value>
+				</Data>
+				<Data name="ESTADO">
+					<displayName>ESTADO</displayName>
+					<value>Chihuahua</value>
+				</Data>
+				<Data name="MUNICIPIO">
+					<displayName>MUNICIPIO</displayName>
+					<value>Chihuahua (CHIH)</value>
+				</Data>
+				<Data name="X">
+					<displayName>X</displayName>
+					<value>544,236.21</value>
+				</Data>
+				<Data name="Y">
+					<displayName>Y</displayName>
+					<value>3,282,141.50</value>
+				</Data>
+				<Data name="PROPUESTA">
+					<displayName>PROPUESTA</displayName>
+					<value>OJINAGA - EL ENCINO 221+789 KM</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.542859232788,29.6685068487147,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>TRAMPA DOBLE</name>
+		<Snippet maxLines="0"></Snippet>
+		<styleUrl>#FolderStyle</styleUrl>
+		<Placemark>
+			<name>TRAMPA DOBLE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<table cellpadding="2" cellspacing="2" style="border:0px solid #002a7e" width="270px">
+<tr><td align="center" colspan="2"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSmbG58b_8JLbisrmyVxVp6FTf1QzahBOtCQ&usqp=CAU.png" width="50" height="50"></td></tr>
+<tr><td align="center" colspan="2"><font size="2" face="verdana" color="#727272">Topografía</font></td></tr>
+<tr><td align="center" colspan="2"><b><font size="3" face="verdana" color="#000000">Proyecto Sonora</font></b></td></tr>
+<tr> 
+<table width="270px" style="border: outset 1px #f9b127" align="center" border="1"  cellpadding="2" cellspacing="1">
+<colgroup span="0" style="background: rgba(22, 72, 98, 0.1); border: 1px solid rgba(100, 200, 0);"></colgroup>
+<colgroup span="3" style="background: rgba(249, 177, 34, 0.1); border: 1px solid rgba(200, 100, 0);"></colgroup>
+<body text="#164862" style="font-family:Arial NC; font-size:0%">
+<tr>
+<th colspan="3" bgcolor="#164862"><font size="3" face="Verdana" color="#f9b127">OJINAGA - EL ENCINO 221+789 KM</th>
+<tr>
+<th width="32%">Instalación</th>
+<th colspan="2" width="68%">TRAMPA DOBLE</th>
+<tr>
+<th>Km</th>
+<th colspan="2">221+704.81</th>
+<tr>
+<th rowspan="2">Coordenadas</th>
+<th bgcolor="#164862"><font size="3" face="Arial" color="#f9b127">X</th>
+<th bgcolor="#164862"><font size="3" face="Arial" color="#f9b127">Y</th>
+<tr>
+<th>409,174.14&nbsp;E</th>
+<th>3,147,097.58&nbsp;N</th>
+<tr>
+<th>Estado</th>
+<th colspan="2">Chihuahua</th>
+<tr>
+<th>Municipio</th>
+<th colspan="2">Ojinaga (CHIH)</th>
+</table>
+<table cellpadding="0" cellspacing="3" style="border:0px solid #002a7e" width="280px">
+<td align="left"><font size="1" face="symbol" color="#ffffff">Pho<td align="center"><b><font size="2" face="Verdana">www.bcysa.mx<td align="center"><font size="1" face="symbol" color="#e4f0ff">Pho</font><br>]]></description>
+			<styleUrl>#khStyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="ID">
+					<displayName>ID</displayName>
+					<value>8</value>
+				</Data>
+				<Data name="INSTALACIÓ">
+					<displayName>INSTALACIÓ</displayName>
+					<value>TRAMPA DOBLE</value>
+				</Data>
+				<Data name="KM">
+					<displayName>KM</displayName>
+					<value>221+704.81</value>
+				</Data>
+				<Data name="ESTADO">
+					<displayName>ESTADO</displayName>
+					<value>Chihuahua</value>
+				</Data>
+				<Data name="MUNICIPIO">
+					<displayName>MUNICIPIO</displayName>
+					<value>Ojinaga (CHIH)</value>
+				</Data>
+				<Data name="X">
+					<displayName>X</displayName>
+					<value>409,174.14</value>
+				</Data>
+				<Data name="Y">
+					<displayName>Y</displayName>
+					<value>3,147,097.58</value>
+				</Data>
+				<Data name="PROPUESTA">
+					<displayName>PROPUESTA</displayName>
+					<value>OJINAGA - EL ENCINO 221+789 KM</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.92759019579,28.4472425684815,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
